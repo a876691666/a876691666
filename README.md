@@ -4,11 +4,11 @@ I'm looking for unique/valuable open source projects! 👀
 
 I'm interested in:
 
-- Languages: TypeScript / JavaScript / Golang / Rust  
-- Areas: SaaS / BaaS / FaaS
-- Direction: Frontend / Backend / Cloud Native
+- Languages: TypeScript / JavaScript / Golang / Rust / Wasm
+- Areas: SaaS / BaaS / FaaS / Serverless
+- Direction: Frontend / Backend / Cloud Native / Automation
 - Type: Open Source / Free / Self-hosted
-- Others: Rendering / Tools / Games
+- Others: Rendering / Tools / Games / Design / Service Tools
 
 If you have projects related to these tech stacks, feel free to contact me!
 
@@ -23,11 +23,11 @@ I'm currently developing a SaaS project based on `nestjs`. My goal is to create 
 
 我感兴趣的内容:
 
-- 语言: TypeScript / JavaScript / Golang / Rust
-- 领域: SaaS / Baas / FaaS
-- 方向: 前端 / 后端 / 云原生
+- 语言: TypeScript / JavaScript / Golang / Rust / Wasm
+- 领域: SaaS / Baas / FaaS / Serverless
+- 方向: 前端 / 后端 / 云原生 / 自动化
 - 类型: 开源 / 免费 / 自部署
-- 其他: 渲染 / 工具 / 游戏
+- 其他: 3D / 游戏 / 可视化 / 设计 / 服务化工具
 
 如果你有这些技术栈相关的项目,欢迎联系我!
 
