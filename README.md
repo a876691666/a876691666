@@ -12,9 +12,9 @@ I'm interested in:
 
 If you have projects related to these tech stacks, feel free to contact me!
 
-Follow me to stay updated with relevant repositories ⭐
+Follow me to learn about related repositories, as I frequently star ⭐ useful open source projects.
 
-Currently, I'm developing a SaaS project based on nestjs. My goal is to build a Yudao Source Code.
+I'm currently developing a SaaS project based on `nestjs`. My goal is to create something like `ruoyi-vue-pro`.
 
 
 ## 你好 👋
@@ -31,6 +31,6 @@ Currently, I'm developing a SaaS project based on nestjs. My goal is to build a 
 
 如果你有这些技术栈相关的项目,欢迎联系我!
 
-关注我可以经常了解相关仓库 ⭐
+关注我可以了解到相关仓库，因为我经常标星⭐实用的开源项目。
 
-目前我正在开发基于 nestjs 的 SaaS 项目。我的目标是芋道源码。
+目前我正在开发基于 `nestjs` 的 SaaS 项目。我的目标是`芋道源码`。
